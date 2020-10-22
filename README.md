@@ -22,4 +22,4 @@ grown into a full-fledged security solution for casual users.You just
 need to run it and it won't bother you anymore.It doesn't bother you  
 with intrusive notifications, it just quietly does its job and   
 ensures your safety.  
-[Thanks for reading](https://hi-tech.ua/wp-content/uploads/2018/12/kitten.jpg)
+[Click on me!](https://hi-tech.ua/wp-content/uploads/2018/12/kitten.jpg)
