@@ -1,7 +1,7 @@
-# EcoAntivirus
+# **EcoAntivirus**
 EcoAntivirus is free antivirus designed by cybersecurity students.
 *Only for Windows 7/8/8.1/10
-[Link to get it] (<is.gd/EcoAntivirus>)
+[Link to get it] (<https://is.gd/EcoAntivirus>)
 
 *Windows Tech Specs
 
